@@ -38,6 +38,15 @@
       "filterable": 1
     },
     {
+      "key": "奈落影院",
+      "name": "奈落影院",
+      "type": 3,
+      "api": "csp_Newfii",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "在线之家",
       "name": "在线之家",
       "type": 3,
@@ -91,7 +100,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/drowning1213/maoTV/main/XBiubiu/555.json"
+      "ext": "https://tangsan99999.github.io/XBiubiu/555.json"
     },
     {
       "key": "csp_biubiu_lezhu",

@@ -517,5 +517,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/drowning1213/maoTV/main/custom_spider.jar"
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/drowning1213/maoTV/main/custom_spider.jar;md5;d804a6e9a4fe02c3acc7eb2b7046ec62"
 }

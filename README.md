@@ -1,1 +1,1 @@
-### https://drowning1213/maoTV/xiaobai.json
+### https://github.com/drowning1213/maoTV/xiaobai.json

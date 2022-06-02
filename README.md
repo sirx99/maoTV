@@ -1,1 +1,1 @@
-### https://github.com/drowning1213/maoTV/xiaobai.json
+### https://ghproxy.com/https://raw.githubusercontent.com/drowning1213/maoTV/main/xiaobai.json

@@ -100,7 +100,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://tangsan99999.github.io/XBiubiu/555.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/drowning1213/maoTV/main/XBiubiu/555.json"
     },
     {
       "key": "csp_biubiu_lezhu",
@@ -181,6 +181,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/drowning1213/maoTV/main/sub/xpath/agefans.json"
+    },
+    {
+      "key": "csp_appysv2_9e国语",
+      "name": "9亿国语",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://vod.9e03.com/lvdou_api.php/v1.vod"
     },
     {
       "key": "csp_biubiu_av01",

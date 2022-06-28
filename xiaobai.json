@@ -1,241 +1,34 @@
 {
   "sites": [
-    { // 解析自己找
-      "key": "360",
-      "name": "360",
-      "type": 3,
-      "api": "csp_SP360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/drowning1213/maoTV/main/sub/xpath/360.json"
-    },
-    {
-      "key": "腾讯",
-      "name": "腾讯",
-      "type": 1,
-      "api": "https://wabc.ml/mao/1.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "LiteApple",
-      "name": "小苹果",
-      "type": 3,
-      "api": "csp_LiteApple",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "七七",
-      "name": "七七",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "奈落影院",
-      "name": "奈落影院",
-      "type": 3,
-      "api": "csp_Newfii",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "在线之家",
-      "name": "在线之家",
-      "type": 3,
-      "api": "csp_Zxzj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "小宝影院",
-      "name": "小宝影院",
-      "type": 3,
-      "api": "csp_Xiaoh",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "Auete",
-      "name": "Auete",
-      "type": 3,
-      "api": "csp_Auete",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "Cokemv",
-      "name": "Cokemv",
-      "type": 3,
-      "api": "csp_Cokemv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_biubiu_ysgc",
-      "name": "影视工厂(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/drowning1213/maoTV/main/XBiubiu/ysgc.json"
-    },
-    {
-      "key": "csp_biubiu_555",
-      "name": "555影院(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/drowning1213/maoTV/main/XBiubiu/555.json"
-    },
-    {
-      "key": "csp_biubiu_lezhu",
-      "name": "乐猪(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/drowning1213/maoTV/main/XBiubiu/lezhutv.json"
-    },
-    { //列子，自己找Api
-      "key": "300看世界",
-      "name": "300看世界(v2)",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://300ys.xyz/mogai_api.php/v1.vod"
-    },
-    { //列子，自己找Api
-      "key": "钟特影视",
-      "name": "钟特影视(v2)",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://app.zteys.com/api.php/v1.vod"
-    },
-    { //列子，自己找Api
-      "key": "美剧虫",
-      "name": "美剧虫(v1)",
-      "type": 3,
-      "api": "csp_AppYs",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://meijuchong.com/api.php/v1.vod"
-    },
-    {
-      "key": "789看片",
-      "name": "789看片(XP)",
-      "type": 3,
-      "api": "csp_XPathRec",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/drowning1213/maoTV/main/sub/xpath/789ba.json"
-    },
-    {
-      "key": "Gimy",
-      "name": "Gimy(XP)",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/drowning1213/maoTV/main/sub/xpath/Gimy.json"
-    },
-    {
-      "key": "乐猪TV",
-      "name": "乐猪TV(XP)",
-      "type": 3,
-      "api": "csp_XPathMac",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/drowning1213/maoTV/main/sub/xpath/lezhutv.json"
-    },
+{"key": "360","name": "360","type": 3,"api": "csp_SP360","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/drowning1213/maoTV/main/sub/xpath/360.json"},
+{"key": "腾讯","name": "腾讯","type": 1,"api": "https://wabc.ml/mao/1.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key": "LiteApple","name": "小苹果","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "七七","name": "七七","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "奈落影院","name": "奈落影院","type": 3,"api": "csp_Newfii","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "在线之家","name": "在线之家","type": 3,"api": "csp_Zxzj","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "小宝影院","name": "小宝影院","type": 3,"api": "csp_Xiaoh","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "Auete","name": "Auete","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "Cokemv","name": "Cokemv","type": 3,"api": "csp_Cokemv","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"mjxq_spider","name":"🌏美剧星球(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nbys","name":"📺泥巴(SP需翻墙)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv","name":"🚗Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Buka","name":"📒经常卡(SP)","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_BBB","name":"🅱️哔哩套餐","type":3,"api":"csp_BBB","searchable":0,"quickSearch":0,"filterable":1},
-    {
-      "key": "Age动漫",
-      "name": "Age动漫(XP)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/drowning1213/maoTV/main/sub/xpath/agefans.json"
-    },
-    {
-      "key": "csp_appysv2_9e国语",
-      "name": "9亿国语",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://vod.9e03.com/lvdou_api.php/v1.vod"
-    },
-    {
-      "key": "csp_大米星球",
-      "name": "🍚大米(B)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/drowning1213/maoTV/main/XBiubiu/%F0%9F%8D%9A%E5%A4%A7%E7%B1%B3(B).txt"
-    },
-    {
-      "key": "csp_biubiu_av01",
-      "name": "AV01",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/drowning1213/maoTV/main/XBiubiu/AV01.txt"
-    },
-    {
-      "key": "csp_biubiu_netflav",
-      "name": "Netflav",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/drowning1213/maoTV/main/XBiubiu/Netflav.txt"
-    },
-    {
-      "key": "push_agent",
-      "name": "推送",
-      "type": 3,
-      "api": "csp_PushAgent",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    }
+{"key": "csp_biubiu_ysgc","name": "影视工厂(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/drowning1213/maoTV/main/XBiubiu/ysgc.json"},
+{"key": "csp_biubiu_555","name": "555影院(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/drowning1213/maoTV/main/XBiubiu/555.json"},
+{"key": "csp_biubiu_lezhu","name": "乐猪(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/drowning1213/maoTV/main/XBiubiu/lezhutv.json"},
+{"key": "300看世界","name": "300看世界(v2)","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://300ys.xyz/mogai_api.php/v1.vod"},
+{"key": "钟特影视","name": "钟特影视(v2)","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://app.zteys.com/api.php/v1.vod"},
+{"key": "美剧虫","name": "美剧虫(v1)","type": 3,"api": "csp_AppYs","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://meijuchong.com/api.php/v1.vod"},
+{"key": "789看片","name": "789看片(XP)","type": 3,"api": "csp_XPathRec","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/drowning1213/maoTV/main/sub/xpath/789ba.json"},
+{"key": "Gimy","name": "Gimy(XP)","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/drowning1213/maoTV/main/sub/xpath/Gimy.json"},
+{"key": "乐猪TV","name": "乐猪TV(XP)","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/drowning1213/maoTV/main/sub/xpath/lezhutv.json"},
+{"key": "Age动漫","name": "Age动漫(XP)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/drowning1213/maoTV/main/sub/xpath/agefans.json"},
+{"key": "csp_appysv2_9e国语","name": "9亿国语","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://vod.9e03.com/lvdou_api.php/v1.vod"},
+{"key": "csp_大米星球","name": "🍚大米(B)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/drowning1213/maoTV/main/XBiubiu/%F0%9F%8D%9A%E5%A4%A7%E7%B1%B3(B).txt"},
+{"key": "csp_biubiu_av01","name": "AV01","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/drowning1213/maoTV/main/XBiubiu/AV01.txt"},
+{"key": "csp_biubiu_netflav","name": "Netflav","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/drowning1213/maoTV/main/XBiubiu/Netflav.txt"},
+{"key": "push_agent","name": "推送","type": 3,"api": "csp_PushAgent","searchable": 0,"quickSearch": 0,"filterable": 0}
   ],
   "lives": [
     {

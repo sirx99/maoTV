@@ -11,15 +11,6 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/drowning1213/maoTV/main/sub/xpath/360.json"
     },
     {
-      "key": "腾讯",
-      "name": "腾讯",
-      "type": 1,
-      "api": "https://wabc.ml/mao/1.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "LiteApple",
       "name": "小苹果",
       "type": 3,
